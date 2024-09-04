@@ -73,25 +73,3 @@ function reset(){
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-let a=[1,2,3]
-let b=[2,3,1]
-
-
-if (a===b){
-    console.log("true")
-}else {
-    console.log("false")
-}
-
